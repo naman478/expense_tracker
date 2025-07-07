@@ -222,5 +222,3 @@ If you encounter any issues:
 - [ ] Integration with banking APIs
 
 ---
-
-Built with ❤️ for Amlgo Labs Full Stack Assessment
